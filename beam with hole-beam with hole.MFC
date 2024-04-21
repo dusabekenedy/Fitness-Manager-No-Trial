@@ -1,0 +1,16 @@
+[StartTime]
+beam with hole-beam with hole.MFC=
+[SolverState]
+beam with hole-beam with hole.MFC=2
+[MainFrame]
+beam with hole-beam with hole.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMMBAAAAAPPAAAAAAEDDAAAAACNBAAAAA
+[ShowMin]
+beam with hole-beam with hole.MFC=No
+[SolverType]
+beam with hole-beam with hole.MFC=Linear Analysis
+[StudyType]
+beam with hole-beam with hole.MFC=0
+[StudyName]
+beam with hole-beam with hole.MFC=beam with hole
+[Solver]
+beam with hole-beam with hole.MFC=Iterative
